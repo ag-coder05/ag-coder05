@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there! 👋 I'm [Your Name]
+🚀 B.Tech CSE Student | Aspiring Data Scientist
+
+🛠️ Currently working with Java, Python, and SQL.
+
+🎓 Focused on Data Structures, DBMS, and Operating Systems.
+
+📫 Connect with me on https://www.linkedin.com/in/aritri-ghosh-105838336/
+.
+
 
 <!--
 **ag-coder05/ag-coder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
