@@ -1,12 +1,12 @@
-## Hi there! 👋 I'm [Your Name]
-🚀 B.Tech CSE Student | Aspiring Data Scientist
+## Hi there! 👋 I'm Aritri!
+B.Tech CSE Student | Aspiring Data Scientist
 
-🛠️ Currently working with Java, Python, and SQL.
+Currently working with Java, Python, and SQL.
 
-🎓 Focused on Data Structures, DBMS, and Operating Systems.
+Focused on Data Structures, DBMS, and Operating Systems.
 
-📫 Connect with me on https://www.linkedin.com/in/aritri-ghosh-105838336/
-.
+Connect with me on https://www.linkedin.com/in/aritri-ghosh-105838336/
+
 
 
 <!--
