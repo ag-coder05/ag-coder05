@@ -68,3 +68,55 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
   <img src="https://img.shields.io/badge/Stacking-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model%20Calibration-9370DB?style=for-the-badge" />
 </p>
+
+
+<h2 align="center">🚀 Featured Projects & Research</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 Early Sepsis Detection</h3>
+      <p align="center">
+        <b>Collaborative Research | AI in Healthcare</b>
+      </p>
+      <p>
+        Research on early sepsis prediction using machine learning,
+        deep learning, temporal modelling and ensemble techniques.
+        Exploring multi-horizon prediction and reliable clinical
+        risk assessment.
+      </p>
+      <p align="center">
+        <b>Python · PyTorch · Scikit-learn · XGBoost</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Early-Sepsis-Detection">
+          View Research →
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      
+<h3 align="center">🌐 PeerTorrent</h3>
+<p align="center">
+  <b>Collaborative Project | Team of 4</b>
+</p>
+<p>
+  A lightweight peer-to-peer file-sharing system inspired
+  by BitTorrent, featuring piece-based file transfer,
+  tracker-based peer discovery, hash-based integrity
+  verification and multiple piece-selection strategies.
+  Includes performance experiments involving upload
+  limits and free-rider behaviour.
+</p>
+<p align="center">
+  <b>Distributed Systems · Computer Networks · P2P Architecture</b>
+</p>
+<p align="center">
+  <a href="https://github.com/PeerTorrent-Team">
+    View Project →
+  </a>
+</p>
+
+    </td>
+  </tr>
+</table>
