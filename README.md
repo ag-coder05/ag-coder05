@@ -116,7 +116,38 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
     View Project →
   </a>
 </p>
-
+<h3 align="center">📊 Data Science Internship Assignments</h3>
+<p>
+  A collection of four assignments completed during a
+  six-week Data Science with Python internship at Axcentra.
+  Applied Python-based data analysis and visualisation
+  techniques using Pandas, Matplotlib, Seaborn and
+  Scikit-learn.
+</p>
+<p align="center">
+  <b>Python · Pandas · Matplotlib · Seaborn · Scikit-learn</b>
+</p>
+<p align="center">
+  <a href="https://github.com/ag-coder05/Data_Science_Intership_Assignments">
+    View Repository →
+  </a>
+</p>
+<h3 align="center">🌳 Opportuni-Tree</h3>
+<p>
+  A centralized job and internship finder designed for
+  Indian students. Aggregates listings from external job
+  APIs and curated datasets, with features for searching,
+  filtering, saving opportunities, tracking applications
+  and managing user profiles.
+</p>
+<p align="center">
+  <b>JavaScript · HTML · CSS · REST APIs · Local Storage</b>
+</p>
+<p align="center">
+  <a href="https://github.com/ag-coder05/HACKATHON-Konverge2026">
+    View Project →
+  </a>
+</p>
   
   </tr>
 </table>
