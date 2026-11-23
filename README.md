@@ -70,37 +70,37 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
 </p>
 
 
+
 <h2 align="center">🚀 Featured Projects & Research</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🩺 Early Sepsis Detection</h3>
-      <p align="center">
-        <b>Collaborative Research | AI in Healthcare</b>
-      </p>
-      <p>
-        Research on early sepsis prediction using machine learning,
-        deep learning, temporal modelling and ensemble techniques.
-        Exploring multi-horizon prediction and reliable clinical
-        risk assessment.
-      </p>
-      <p align="center">
-        <b>Python · PyTorch · Scikit-learn · XGBoost</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Early-Sepsis-Detection">
-          View Research →
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      
+<hr/>
+
+<h3 align="center">🩺 Early Sepsis Detection</h3>
+<p align="center">
+  <b>Collaborative Research | AI in Healthcare</b>
+</p>
+<p align="center">
+  Research on early sepsis prediction using machine learning,
+  deep learning, temporal modelling and ensemble techniques.
+  Exploring multi-horizon prediction and reliable clinical
+  risk assessment.
+</p>
+<p align="center">
+  <b>Python · PyTorch · Scikit-learn · XGBoost</b>
+</p>
+<p align="center">
+  <a href="https://github.com/Early-Sepsis-Detection">
+    View Research →
+  </a>
+</p>
+
+<hr/>
+
 <h3 align="center">🌐 PeerTorrent</h3>
 <p align="center">
   <b>Collaborative Project | Team of 4</b>
 </p>
-<p>
+<p align="center">
   A lightweight peer-to-peer file-sharing system inspired
   by BitTorrent, featuring piece-based file transfer,
   tracker-based peer discovery, hash-based integrity
@@ -116,8 +116,14 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
     View Project →
   </a>
 </p>
+
+<hr/>
+
 <h3 align="center">📊 Data Science Internship Assignments</h3>
-<p>
+<p align="center">
+  <b>6-Week Internship | Axcentra</b>
+</p>
+<p align="center">
   A collection of four assignments completed during a
   six-week Data Science with Python internship at Axcentra.
   Applied Python-based data analysis and visualisation
@@ -132,8 +138,14 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
     View Repository →
   </a>
 </p>
+
+<hr/>
+
 <h3 align="center">🌳 Opportuni-Tree</h3>
-<p>
+<p align="center">
+  <b>Job & Internship Discovery Platform</b>
+</p>
+<p align="center">
   A centralized job and internship finder designed for
   Indian students. Aggregates listings from external job
   APIs and curated datasets, with features for searching,
@@ -148,6 +160,4 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
     View Project →
   </a>
 </p>
-  
-  </tr>
-</table>
+
