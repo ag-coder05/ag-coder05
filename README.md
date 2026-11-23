@@ -117,6 +117,6 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
   </a>
 </p>
 
-    </td>
+  
   </tr>
 </table>
