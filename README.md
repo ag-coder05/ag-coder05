@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Aritri Ghosh - Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/ag-coder05/ag-coder05/main/assets/header.svg" width="100%" alt="Aritri Ghosh - Profile Banner"/>
 </p>
 
 <h1 align="center">Hey, I'm Aritri Ghosh 👋</h1>
