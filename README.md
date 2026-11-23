@@ -1,25 +1,31 @@
-## Hi there! 👋 I'm Aritri!
-B.Tech CSE Student | Aspiring Data Scientist
 
-Currently working with Java, Python, and SQL.
+<h1 align="center">Hey, I'm Aritri Ghosh 👋</h1>
 
-Focused on Data Structures, DBMS, and Operating Systems.
+<h3 align="center">
+  B.Tech CSE Student at KIIT | Aspiring Data Scientist
+</h3>
 
-Connect with me on https://www.linkedin.com/in/aritri-ghosh-105838336/
+<p align="center">
+  <i>Exploring data, building intelligent solutions, and learning through research.</i>
+</p>
 
+---
 
+### 👩‍💻 About Me
 
-<!--
-**ag-coder05/ag-coder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 5th-semester Computer Science and Engineering student at
+KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at KIIT
+- 🧠 Exploring Machine Learning and Data Science
+- 💻 Working with Python, Java, and SQL
+- 🔬 Co-authoring an ongoing research paper on Early Sepsis Detection
+- 📊 Interested in data-driven problem solving and research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aritri-ghosh-105838336/">
+    LinkedIn
+  </a>
+</p>
