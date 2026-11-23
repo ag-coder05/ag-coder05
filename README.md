@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Aritri Ghosh 👋</h1>
 
 <h3 align="center">
-  B.Tech CSE Student at KIIT | Aspiring Data Scientist
+  B.Tech CSE Student at KIIT | Exploring AI, Machine Learning & Data Science
 </h3>
 
 <p align="center">
