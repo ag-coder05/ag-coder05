@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Aritri Ghosh - Profile Banner"/>
+</p>
+
 <h1 align="center">Hey, I'm Aritri Ghosh 👋</h1>
 
 <h3 align="center">
