@@ -32,3 +32,39 @@ KIIT, interested in Data Science, Machine Learning, and Artificial Intelligence.
     LinkedIn
   </a>
 </p>
+
+
+
+<h2 align="center">⚡ Tech Stack & Skills</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
+
+<h3 align="center">🧠 Machine Learning & Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <br/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/KaggleHub-20BEFF?style=for-the-badge" />
+</p>
+
+<h3 align="center">🔬 ML Concepts & Architectures</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BiLSTM-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ensemble%20Learning-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stacking-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Calibration-9370DB?style=for-the-badge" />
+</p>
